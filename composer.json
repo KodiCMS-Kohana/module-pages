@@ -20,5 +20,10 @@
 	},
 	"require": {
 		"kodicms/core": "dev-master"
+	},
+	"extra": {
+		"installer-paths": {
+			"cms/modules/{$name}": ["type:kodicms-module"]
+		}
 	}
 }
