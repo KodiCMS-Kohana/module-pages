@@ -18,6 +18,11 @@
 		"forum":    "http://www.kodicms.ru/forum",
 		"source":   "https://github.com/KodiCMS/module-pages"
 	},
+	"autoload": {
+		"psr-4": {
+			"KodiCMS\\Pages\\": 	"classes"
+		}
+	},
 	"require": {
 		"kodicms/core": "dev-master"
 	}
