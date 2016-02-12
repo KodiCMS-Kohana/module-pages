@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/pages",
+	"name":        "kodicms_kohana/pages",
 	"type":        "kodicms-module",
 	"description": "The official KodiCMS page module",
 	"homepage":    "http://www.kodicms.ru/",
